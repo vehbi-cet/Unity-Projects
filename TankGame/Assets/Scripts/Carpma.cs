@@ -16,13 +16,13 @@ public class Carpma : MonoBehaviour
         
     }
 
-    /* private void OnCollisionEnter(Collision col)
+     private void OnCollisionEnter(Collision col)
      {
          print(col.gameObject.name);
-     }*/
+     }
 
-    private void OnTriggerEnter(Collider other)
+   /* private void OnTriggerEnter(Collider other)
     {
-        print(other.gameObject.name + " ile temasa geçildi");
-    }
+        print(other.gameObject.name + " ile temasa geï¿½ildi");
+    }*/
 }
